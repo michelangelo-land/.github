@@ -33,6 +33,7 @@ The Michelangelo organization has a growing collection of repositories. Here are
 - [michelangelo-land/.github](https://github.com/michelangelo-land/.github): Organization profile and community resources.
 - [michelangelo-land/website](https://github.com/michelangelo-land/website): The Michelangelo marketing website.
 - [michelangelo-land/demo-store-cl](https://github.com/michelangelo-land/demo-store-cl): A Vibe Coding demo store app built with Commerce Layer.
+- [michelangelo-land/appstore-connect-mcp](https://github.com/michelangelo-land/appstore-connect-mcp): Remote stateless App Store Connect MCP on Cloudflare Workers (BYOK).
 
 ## Support
 
